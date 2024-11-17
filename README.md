@@ -1,13 +1,13 @@
 # Template voor Praktische Opdracht Website
 
-This repository is a template for Dutch students of Stanislascollege Westplantsoen grade havo-4 and vwo-4 (highsschool grade 10 in the US-system).
+This repository is a template for students of Sint-Maartenscollege Voorburg grade havo-4 and vwo-4.
 It contains startcode for an assigment to build a website. The recommended IDE for this template is Codespaces.
 
-## 1. Open een Codespace van jullie kopie
+## 1. Maak een eigen Codespace van jullie repository
 
-Een Codespace is een online ontwikkelomgeving. Dat betekent dat je via een browser toegang krijgt tot een server. Op de server staat een kopie van jouw bestanden uit GitHub.
+Een Codespace is een online ontwikkelomgeving. Dat betekent dat je via een browser toegang krijgt tot een server. Op de server staat een kopie van jullie bestanden in GitHub.
 
-    - klik op groen knop "Code" (1)
+    - klik op groene knop "Code" (1)
     - klik op tabje "Codespaces" (2)
     - klik op "Create Codespace on main" (3)
   
@@ -15,7 +15,7 @@ Een Codespace is een online ontwikkelomgeving. Dat betekent dat je via een brows
 
 ## 2. Maak een aanpassing aan je website
 
-Je kunt nieuwe mappen en bestanden maken, kopieren een nieuwe naam geven of uploaden. Bestanden uploaden gebruik je voor plaatjes.
+Je kunt bestanden aanpassen, nieuwe mappen en bestanden maken, bestanden kopiëren, een nieuwe naam geven of uploaden. Bestanden uploaden gebruik je bijvoorbeeld voor plaatjes.
 
     - Voeg in het bestand index.html op de plek van de drie puntjes je favoriete kleur toe.
     
@@ -24,7 +24,7 @@ Je kunt nieuwe mappen en bestanden maken, kopieren een nieuwe naam geven of uplo
 ## 3. Bekijk het resultaat in de Simple Browser.
 
     - Ga naar de Simple Browser tab en klik op reload
-    - Als de Simple Broswer niet geopend is, dan kun je die als volgt openen:
+    - Als de Simple Browser niet geopend is, dan kun je die als volgt openen:
     - Klik op Ports (1)
     - Ga met je muis op de regel "Webserver" staan (2)
     - Klik op het grijze icoontje rechts naast het wereldbolletje (3)
@@ -38,7 +38,3 @@ Je kunt nieuwe mappen en bestanden maken, kopieren een nieuwe naam geven of uplo
     - Klik op "Commit & Sync" (3)
   
 ![Commit](images/commit.png)
-
-## Informatie over GitHub met Codespaces
-
-- https://stanislas.informatica.nu/help/codespaces/
