@@ -26,8 +26,8 @@ Je kunt bestanden aanpassen, nieuwe mappen en bestanden maken, bestanden kopiër
     - Ga naar de Simple Browser tab en klik op reload
     - Als de Simple Browser niet geopend is, dan kun je die als volgt openen:
     - Klik op Ports (1)
-    - Ga met je muis op de regel "Webserver" staan (2)
-    - Klik op het grijze icoontje rechts naast het wereldbolletje (3)
+    - Ga met je muis op de regel "Webserver" of een port nummer staan (2)
+    - Klik rechts op het wereldbolletje (3)
 
 ![Preview](images/port.png)
 
