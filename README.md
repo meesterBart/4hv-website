@@ -38,3 +38,8 @@ Je kunt bestanden aanpassen, nieuwe mappen en bestanden maken, bestanden kopiër
     - Klik op "Commit & Sync" (3)
   
 ![Commit](images/commit.png)
+
+## 5. Samenwerken met anderen in dezelfde Codespace.
+
+    - Kies Live share om een link te krijgen die je kunt delen met anderen
+    - Zo nodig moet je bij Extensions Live share installeren e/o enablen
